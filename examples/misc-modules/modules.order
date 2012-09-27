@@ -1,0 +1,11 @@
+kernel//home/yql/workspace/examples/misc-modules/hello.ko
+kernel//home/yql/workspace/examples/misc-modules/hellop.ko
+kernel//home/yql/workspace/examples/misc-modules/seq.ko
+kernel//home/yql/workspace/examples/misc-modules/jit.ko
+kernel//home/yql/workspace/examples/misc-modules/jiq.ko
+kernel//home/yql/workspace/examples/misc-modules/sleepy.ko
+kernel//home/yql/workspace/examples/misc-modules/complete.ko
+kernel//home/yql/workspace/examples/misc-modules/silly.ko
+kernel//home/yql/workspace/examples/misc-modules/faulty.ko
+kernel//home/yql/workspace/examples/misc-modules/kdatasize.ko
+kernel//home/yql/workspace/examples/misc-modules/kdataalign.ko
